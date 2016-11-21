@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+.cache/
+.coverage
+.tox/
+setup.py
+tox.ini
+baidu.egg-info/
+coverage.xml
+env/
+htmlcov/
