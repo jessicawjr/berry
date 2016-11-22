@@ -7,6 +7,7 @@
 setup.py
 tox.ini
 baidu.egg-info/
+berry.egg-info/
 coverage.xml
 env/
 htmlcov/
