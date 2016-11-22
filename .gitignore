@@ -11,3 +11,4 @@ berry.egg-info/
 coverage.xml
 env/
 htmlcov/
+tests/__pycache__/
