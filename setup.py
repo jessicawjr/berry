@@ -1,5 +1,5 @@
 """
-Use setup tools to setup the armory has a standard python module
+Use setup tools to setup the baidu has a standard python module
 """
 from setuptools import setup, find_packages
 
